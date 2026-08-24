@@ -1,0 +1,84 @@
+Revisão do Código — TechInova Painel da Linha 3
+1. Identificação
+
+Projeto: TechInova — Painel da Linha 3
+Repositório: Rhuan385759/techinova-painel-linha
+Responsável pela revisão: [SEU NOME]
+Data: [DATA]
+
+2. Checklist de revisão
+Funções e lógica
+ As funções possuem uma responsabilidade clara?
+ Os nomes das funções são fáceis de entender?
+ Existe alguma função muito grande ou difícil de compreender?
+ O código trata possíveis erros corretamente?
+Variáveis
+ Os nomes das variáveis são claros?
+ As variáveis possuem valores coerentes com sua finalidade?
+ Existem variáveis desnecessárias?
+ Existem valores fixos que poderiam ser configurados?
+Código duplicado
+ Existem trechos de código repetidos?
+ Alguma lógica poderia ser transformada em uma função reutilizável?
+ Existem estruturas que poderiam ser simplificadas?
+Segurança
+ Existem senhas, tokens ou chaves expostas?
+ Existem informações sensíveis dentro dos arquivos?
+ Os dados recebidos pelos sensores são validados?
+ Existe alguma entrada que poderia ser manipulada de forma indevida?
+Interface e organização
+ O painel apresenta claramente os sensores?
+ A tabela de sensores é fácil de compreender?
+ Os status dos sensores são visualmente identificáveis?
+ Os alertas são apresentados de forma clara?
+ O layout funciona em diferentes tamanhos de tela?
+Manutenção
+ HTML, CSS e JavaScript estão separados corretamente?
+ Os arquivos possuem nomes claros?
+ Existem comentários quando realmente necessários?
+ Seria fácil para outro desenvolvedor modificar o projeto?
+3. Problemas encontrados
+Problema 1
+
+Arquivo: [NOME DO ARQUIVO]
+Linha: [NÚMERO]
+
+Problema:
+[DESCREVA O PROBLEMA]
+
+Impacto:
+[BAIXO / MÉDIO / ALTO]
+
+Sugestão:
+[DESCREVA COMO PODERIA SER CORRIGIDO]
+
+Problema 2
+
+Arquivo: [NOME DO ARQUIVO]
+Linha: [NÚMERO]
+
+Problema:
+[DESCREVA O PROBLEMA]
+
+Impacto:
+[BAIXO / MÉDIO / ALTO]
+
+Sugestão:
+[DESCREVA COMO PODERIA SER CORRIGIDO]
+
+4. Pontos positivos
+ Código organizado
+ Estrutura de arquivos clara
+ Nomes de variáveis compreensíveis
+ Interface simples de utilizar
+ Separação entre HTML, CSS e JavaScript
+
+Outros pontos positivos:
+[DESCREVA AQUI]
+
+5. Conclusão
+
+Nota geral do código: [0–10]
+
+Resumo da revisão:
+[ESCREVA UM PEQUENO RESUMO SOBRE A QUALIDADE DO CÓDIGO, PRINCIPAIS PROBLEMAS E O QUE DEVERIA SER MELHORADO.]
